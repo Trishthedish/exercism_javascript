@@ -32,6 +32,7 @@ You can see what commands you can execute with:
 ```bash
 $  exercism
 ```
+======
 
 By default exercism will download files to `~/exercism` you can configure it with:
 
